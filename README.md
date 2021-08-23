@@ -1,1 +1,2 @@
-# umpy
+# UMpy
+UMpy study group talks.
