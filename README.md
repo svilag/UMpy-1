@@ -27,7 +27,7 @@ brew install git-lfs
 ### [Chocolatey](https://community.chocolatey.org/packages/git-lfs.install) (Windows)
 
 ```commandline
-choco install git-lfs.installchoco install git-lfs.install
+choco install git-lfs.install
 ```
 
 ## 2.1 Git LFS Setup
